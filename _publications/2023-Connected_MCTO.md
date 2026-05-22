@@ -10,11 +10,10 @@ citation: 'Zhaoyou Sun, Pai Liu, Yangjun Luo. MFSE-based two-scale concurrent to
 ---
 
 
-
 ### :white_check_mark: Application to different problem
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/2023-Connected_MCTO2.jpg" alt="Multiscale design of different problem" style="max-width: 100%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="/images/2023-Connected_MCTO2.png" alt="Multiscale design of different problem" style="max-width: 100%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 </div>
 
 <p align="center" style="color: #666; font-size: 0.9em; margin-top: 10px;">
