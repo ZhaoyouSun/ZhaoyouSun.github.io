@@ -2,7 +2,7 @@
 title: "Multiscale concurrent topology optimization for heat conduction with connectable microstructures"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-Heat_MCTO
+permalink: /publication/2024-Heat_MCTO/
 excerpt: This work intergated our previous work published in CMAME, 2023 into area-to-point heat conduction case, and design some interesting structures.
 date: 01, Jan, 2024
 venue: 'International Journal of Heat and Mass Transfer'
