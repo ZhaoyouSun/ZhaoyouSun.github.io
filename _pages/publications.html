@@ -5,14 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Hello! Welcome to my publication list 👋 This is my first time using this, so I will try to learn about it!
-    You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<div class="wordwrap">
+  <p>Welcome to my publication list! Below is a summary of my research works focusing on computational mechanics, topology optimization, and multiscale design. You can also find my full articles and citation metrics on my <a href="{{ site.author.googlescholar }}" target="_blank" style="font-weight: bold; text-decoration: underline;">Google Scholar Profile</a>. 📊</p>
+
+  <div style="background-color: #f4f8fa; border-left: 4px solid #3498db; padding: 15px; margin-top: 15px; margin-bottom: 25px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+    <p style="margin: 0; font-size: 0.95em; color: #2c3e50; line-height: 1.6;">
+      🎬 <strong>Notice on Graphical Visualizations:</strong> <br/>
+      I am currently preparing animations (.gif) and schematic illustrations for each paper to vividly demonstrate the structural evolution and optimization processes. This feature is under development and will be updated gradually. Thank you for your patience and stay tuned!
+    </p>
+  </div>
+</div>
+
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -32,6 +37,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
