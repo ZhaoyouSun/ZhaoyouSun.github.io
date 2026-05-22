@@ -9,7 +9,7 @@ venue: 'Computer Methods in Applied Mechanics and Engineering'
 citation: 'Zhaoyou Sun, Wenbo Liu, Pai Liu, Yangjun Luo. A new multiscale concurrent topology optimization method based on the ordered interpolation and MFSE model. Computer Methods in Applied Mechanics and Engineering, 2024, 430, 117230. DOI: https://doi.org/10.1016/j.cma.2024.117230.'
 ---
 
-### 🎬 Application of the proposed method to different problems
+### :beers: Application of the proposed method to different problems
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/2024-MConnected_MCTO2.png" alt="Application to different problems" style="max-width: 100%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
