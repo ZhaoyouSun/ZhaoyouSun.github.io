@@ -9,6 +9,15 @@ venue: 'Computer Methods in Applied Mechanics and Engineering'
 citation: 'Zhaoyou Sun, Qingfang Duan, Yangjun Luo. A movable partition region strategy for multiscale concurrent topology optimization with multiple connectable microstructures. Computer Methods in Applied Mechanics and Engineering, 2025, 445, 118202. DOI: https://doi.org/10.1016/j.cma.2025.118202.'
 ---
 
+### :mag: Multi-resolution Voxelization
+<div style="display: flex; justify-content: center;">
+  <img src="/images/2025-Movable_MCTO3.png" alt="Multi-resolution" style="max-width: 100%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+</div>
+
+<p align="center" style="color: #666; font-size: 0.9em; margin-top: 10px;">
+  <em>The presented multi-resolution voxelization for a rabbit.</em>
+</p>
+
 ### 🎬 Porous Sandwich Structure Optimization Process
 
 <div style="display: flex; justify-content: center; gap: 2%;">
