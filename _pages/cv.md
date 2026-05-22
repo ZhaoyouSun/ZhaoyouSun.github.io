@@ -27,7 +27,7 @@ redirect_from:
 
 ## 🔬 Research Projects
 
-* **Principal Investigator**, *National Natural Science Foundation of China (NSFC) Student Research Project* * Addressed key scientific problems in structural design and optimization.
+* **Principal Investigator**, *National Natural Science Foundation of China (NSFC) Student Research Project* * Multi-scale concurrent topology optimization method for non-uniform lattice structures considering nonlinearity.
 
 ## 🛠️ Skills & Expertise
 
