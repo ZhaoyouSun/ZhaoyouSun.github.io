@@ -2,7 +2,7 @@
 title: "Anisotropic material-field series expansion for the topological design of optical metalens"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-A_MFSE
 excerpt: 'This work is about topological design of optical metalens by the material-field series expansion method, and the matlab code can be found in my website.'
 date: 28, Apr, 2022
 venue: 'Optics Express'
