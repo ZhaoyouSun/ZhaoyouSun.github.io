@@ -2,7 +2,7 @@
 title: "Topological dimensionality reduction-based machine learning for efficient gradient-free 3D topology optimization"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-DNN_MFSE
+permalink: /publication/2022-DNN_MFSE/
 excerpt: 'This paper proposes a gradient-free optimization method by integrating the material-field series expansion (MFSE) topological parameterization and deep neural networks (DNN).'
 date: 01, Jan, 2022
 venue: 'Materials & Design'
