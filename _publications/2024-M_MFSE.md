@@ -1,5 +1,5 @@
 ---
-title: A multi-regional MFSE topology optimization method for large-scale structures with arbitrary design domains"
+title: A multi-regional MFSE topology optimization method for large-scale structures with arbitrary design domains
 collection: publications
 category: manuscripts
 permalink: /publication/2024-M_MFSE
