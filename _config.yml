@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0003-8079-8744"
   semantic         : # URL
   ssrn             : # URL
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Zhaoyou-Sun?ev=hdr_xprf
   scopus           : # URL
   zotero           : # URL
 
@@ -56,7 +56,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
