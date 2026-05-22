@@ -2,7 +2,7 @@
 title: "MFSE-based two-scale concurrent topology optimization with connectable multiple micro materials"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-Connected_MCTO
+permalink: /publication/2023-Connected_MCTO/
 excerpt: 'By define all the microstructures into a unified field, this paper presents a simply but effetive multiscale concurrent topology optimization method with multiple connectable microstructures.'
 date: 01, Jan, 2023
 venue: 'Computer Methods in Applied Mechanics and Engineering'
