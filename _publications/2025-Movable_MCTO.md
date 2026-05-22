@@ -2,7 +2,7 @@
 title: "A movable partition region strategy for multiscale concurrent topology optimization with multiple connectable microstructures"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-Movable_MCTO
+permalink: /publication/2025-Movable_MCTO/
 excerpt: 'This work introduces a movable partition region strategy through the relaxation scheme and a piecewise distance projection function. Hence, the macroscopic distribution of different microstructures can be dynamically evolved during the MCTO process.'
 date: 01, Jan, 2025
 venue: 'Computer Methods in Applied Mechanics and Engineering'
