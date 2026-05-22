@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-*A printable PDF version of my CV can be downloaded [here](#).*
 
 ---
 
