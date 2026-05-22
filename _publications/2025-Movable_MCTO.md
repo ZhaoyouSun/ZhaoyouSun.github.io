@@ -12,8 +12,8 @@ citation: 'Zhaoyou Sun, Qingfang Duan, Yangjun Luo. A movable partition region s
 ### 🎬 Porous Sandwich Structure Optimization Process
 
 <div style="display: flex; justify-content: center; gap: 2%;">
-  <img src="/images/Gradient_1.gif" alt="Optimization Process-1" style="width: 49%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <img src="/images/Gradient_2.gif" alt="Optimization Process-2" style="width: 49%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="/images/Graident_1.gif" alt="Optimization Process-1" style="width: 49%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="/images/Graident_1.gif" alt="Optimization Process-2" style="width: 49%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 </div>
 
 <p align="center" style="color: #666; font-size: 0.9em; margin-top: 10px;">
