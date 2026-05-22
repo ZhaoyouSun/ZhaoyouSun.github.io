@@ -1,5 +1,5 @@
 ---
-title: "Topology optimization of thin-walled structures with directional straight stiffeners using the material-field series expansion and multifield superposition"
+title: "Topology optimization of thin-walled plates with directional straight stiffeners"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-MS_MFSE/
