@@ -19,3 +19,13 @@ citation: 'Zhaoyou Sun, Qingfang Duan, Yangjun Luo. A movable partition region s
 <p align="center" style="color: #666; font-size: 0.9em; margin-top: 10px;">
   <em>Animation of the porous structure optimization process demonstrating the movable partition strategy.</em>
 </p>
+---
+
+### :bulb: What's more?
+<div style="display: flex; justify-content: center;">
+  <img src="/images/2025-Movable_MCTO2.png" alt="Application to different problems" style="max-width: 100%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+</div>
+
+<p align="center" style="color: #666; font-size: 0.9em; margin-top: 10px;">
+  <em>The proposed method can be successfully applied to various design scenarios.</em>
+</p>
