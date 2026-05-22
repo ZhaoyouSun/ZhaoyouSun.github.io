@@ -13,7 +13,7 @@ I am currently a **PhD student** at *Harbin Institute of Technology (Shenzhen)*.
 
 ## 🔬 Research Experience
 
-* **Master's Degree**: Proposing a topological characterization model for *thin-walled reinforced structures* and solving it using a surrogate model (**DNN-MFSE**).
+* **Master's Degree**: Proposing a topological characterization model for *thin-walled reinforced structures* and solving it using a surrogate model (DNN-MFSE).
 * **Ph.D. Journey**: Focused on *high-resolution topology optimization design* using either full-scale or multiscale methods. 
 * **Current & Future Focus**: Moving toward **nonlinear multiscale analysis** and **strongly coupled topology optimization**. 
 
