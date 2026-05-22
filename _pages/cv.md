@@ -15,7 +15,7 @@ redirect_from:
 
 ## 🎓 Education
 
-* **Visiting Scholar**, *Kyoto University* <span style="float: right;">2026 – Present</span>
+* **Joint Student**, *Kyoto University* <span style="float: right;">2026 – Present</span>
 * **Ph.D. in Mechanics**, *Harbin Institute of Technology (Shenzhen)* <span style="float: right;">2023 – 2027 (Expected)</span>
 * **M.S. in Aeronautical Science and Technology**, *Dalian University of Technology* <span style="float: right;">2020 – 2023</span>
 * **B.S. in Aircraft Manufacturing Engineering**, *Nanchang Hangkong University* <span style="float: right;">2016 – 2020</span>
