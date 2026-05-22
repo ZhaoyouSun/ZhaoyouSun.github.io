@@ -31,9 +31,9 @@ redirect_from:
 
 ## 🛠️ Skills & Expertise
 
-* **Research Domains:** Computational mechanics, topology optimization, multiscale design, and non-linear thermomechanical coupling (e.g., non-linear heat conduction with temperature-dependent properties).
-* **Technical Methodologies:** Finite Element Method (FEM) implementations, including applying Saint Venant-Kirchhoff constitutive models under plane strain assumptions.
-* **Programming & Tools:** Advanced MATLAB (custom non-linear solvers, sensitivity analysis, and high-resolution 3D voxelization visualizations), LaTeX (professional CMAME-style manuscript preparation).
+* **Research Domains:** Computational mechanics, topology optimization, multiscale design, and non-linear thermomechanical coupling (e.g., non-linear topology optimization with temperature-dependent properties).
+* **Technical Methodologies:** Finite Element Method (FEM) implementations, including applying different constitutive models into topology optimization.
+* **Programming & Tools:** MATLAB (custom non-linear solvers, sensitivity analysis, 3D voxelization and high-resolution visualizations), LaTeX (manuscript preparation), Abaqus (nonlinear analysis).
 * **Personal Traits:** Passionate about producing interesting works, and keeping happy every day! 😊
 
 ## 📚 Publications
