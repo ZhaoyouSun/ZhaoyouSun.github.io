@@ -3,8 +3,16 @@ title: "A movable partition region strategy for multiscale concurrent topology o
 collection: publications
 category: manuscripts
 permalink: /publication/2025-Movable_MCTO/
-excerpt: 'This work introduces a movable partition region strategy through the relaxation scheme and a piecewise distance projection function. Hence, the macroscopic distribution of different microstructures can be dynamically evolved during the MCTO process.'
+excerpt: 'This work introduces a movable partition region strategy through the relaxation scheme and a piecewise distance projection function. Hence, the macroscopic distribution of different microstructures can be dynamically evolved during the MCTO process.<br/><img src="/images/Graident_1.gif" width="100%">'
 date: 01, Jan, 2025
 venue: 'Computer Methods in Applied Mechanics and Engineering'
 citation: 'Zhaoyou Sun, Qingfang Duan, Yangjun Luo. A movable partition region strategy for multiscale concurrent topology optimization with multiple connectable microstructures. Computer Methods in Applied Mechanics and Engineering, 2025, 445, 118202. DOI: https://doi.org/10.1016/j.cma.2025.118202.'
 ---
+### 🎬 Porous Sandwich Structure Optimization Process
+
+![ Topology Optimization Process](/images/Graident_1.gif)
+<p align="center">
+  <img src="/images/Graident_1.gif" alt="Optimization Process-1" width="50%">
+  <img src="/images/Graident_2.gif" alt="Optimization Process-2" width="50%">
+</p>
+Animation of the porous sandwich structure optimization process demonstrating the movable partition strategy.
