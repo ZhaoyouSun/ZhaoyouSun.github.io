@@ -3,7 +3,7 @@ title: "Multi-material topology optimization for nonlinear heat conduction with 
 collection: publications
 category: manuscripts
 permalink: /publication/2026-TDMPs_MMTO/
-excerpt: This work revealed that single-material optimization yields configurations that remain virtually unchanged although consider TDMPs, and that introducing diverse temperature-dependent materials enhances design performance.
+excerpt: This work revealed that single-material optimization yields configurations that remain virtually unchanged although consider TDMPs, and that introducing diverse temperature-dependent materials enhances design performance.<br/><br/><img src="/images/TDMPMMTO.png" width="100%">'
 date: 01, June, 2026
 venue: 'International Journal of Engineering Science'
 paperurl: 'https://ZhaoyouSun.github.io/files/2026-TDMPs_MMTO.pdf'
